@@ -11,6 +11,10 @@ int main() {
 
 
 // this is third  version
+<<<<<<< HEAD
 //changes on internal coding
+=======
+//Changes made on repositary.
+>>>>>>> e61ca39c6082ca5bba6a66d1b33cf6a00450f6f0
 return 0;
 } 
